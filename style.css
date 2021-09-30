@@ -1,9 +1,10 @@
 #front-page {
-    height: 90vh;
+    height: auto;
     background-image: url(/img/contact__\ back.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+    padding: 60px 0;
 }
 
 .forms__page {
@@ -35,6 +36,11 @@
 .projectSections{
     margin-top: 100px !important;
 }
+
+.bg-light-extra{
+    background-color: #ebebeb;
+}
+
 /* .list-group-horizontal>.list-group-item+.list-group-item {
     border-top-width: 1px;
     border-left-width: 0;
