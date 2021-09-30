@@ -1,0 +1,42 @@
+#front-page {
+  height: auto;
+  background-image: url(/img/contact__\ back.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 60px 0;
+}
+
+.forms__page {
+  background-image: url(/img/contact__main-back.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.container {
+  background-image: url(/img/contact__\ back.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.projectSections .card {
+  flex-direction: row !important;
+}
+
+.font-10 {
+  font-size: 10px;
+}
+
+.projectSections .pl-0 {
+  padding-left: 0 !important;
+}
+
+.projectSections {
+  margin-top: 100px !important;
+}
+
+.bg-light-extra {
+  background-color: #ebebeb;
+}
